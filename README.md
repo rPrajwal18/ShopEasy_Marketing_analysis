@@ -1,4 +1,4 @@
-# ShopEasy Marketing Aanalysis
+# ShopEasy Marketing Analysis
 
 ## Project Background
 ShopEasy, an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. The business seeks to understand the root causes through detailed KPI analysis and uncover strategies to enhance its marketing effectiveness and customer journey.
@@ -27,8 +27,8 @@ ShopEasy's database as seen below consists of five main tables dim_customers, di
 
 ### Decreased Conversion Rates
 - **General Conversion Trend**: Throughout the year, conversion rates varied, with higher numbers of products converting successfully in months like February and July. This suggests that while some products had strong seasonal peaks, there is potential to improve conversions in lower-performing months through targeted interventions.
-- **Lowest Conversion Month**: May experienced the lowest overall conversion rate at 4.3%, with no products standing out significantly in terms of conversion. This indicates a potential need to revisit marketing strategies or promotions during this period to boost performance.
-- **Highest Conversion Rates**: January recorded the highest overall conversion rate at 18.5%, driven significantly by the Ski Boots with a remarkable 150% conversion. This indicates a strong start to the year, likely fueled by seasonal demand and effective marketing strategies.
+- **Lowest Conversion Month**: May experienced the lowest overall conversion rate at 6.1%, with no products standing out significantly in terms of conversion. This indicates a potential need to revisit marketing strategies or promotions during this period to boost performance.
+- **Highest Conversion Rates**: January recorded the highest overall conversion rate at 17.3%, driven significantly by the Ski Boots with a remarkable 100% conversion. This indicates a strong start to the year, likely fueled by seasonal demand and effective marketing strategies.
 
 ![decreased_conversion_rates](https://github.com/rPrajwal18/ShopEasy_Marketing_analysis/blob/ef8e4ffb0b4df2103eb9109686f7ed03842a021c/files/decreased_conversion_rates.png)
 
