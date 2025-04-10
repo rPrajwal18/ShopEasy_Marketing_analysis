@@ -33,9 +33,9 @@ ShopEasy's database as seen below consists of five main tables dim_customers, di
 ![decreased_conversion_rates](https://github.com/rPrajwal18/ShopEasy_Marketing_analysis/blob/ef8e4ffb0b4df2103eb9109686f7ed03842a021c/files/decreased_conversion_rates.png)
 
 ### Reduced Customer Engagement
-- **Declining Views**: Views peaked in February and July but declined from August and on, indicating reduced audience engagement in the later half of the year.
+- **Declining Views**: Views peaked in February and April but declined from August and on, indicating reduced audience engagement in the later half of the year.
 - **Low Interaction Rates**: Clicks and likes remained consistently low compared to views, suggesting the need for more engaging content or stronger calls to action.
-- **Content Type Performance**: Blog content drove the most views, especially in April and July, while social media and video content maintained steady but slightly lower engagement.
+- **Content Type Performance**: Blog content drove the most views, especially in Jan and April, while social media and video content maintained steady but slightly lower engagement.
   
 ![click_view_likes_analysis](https://github.com/rPrajwal18/ShopEasy_Marketing_analysis/blob/ef8e4ffb0b4df2103eb9109686f7ed03842a021c/files/clicks_views_likes_analysis.png)
 ![age_group_analysis](https://github.com/rPrajwal18/ShopEasy_Marketing_analysis/blob/ef8e4ffb0b4df2103eb9109686f7ed03842a021c/files/total_views_by_content_type.png)
